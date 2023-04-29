@@ -2,7 +2,7 @@
 
 Projeto frontend React consumindo a API do TMDB, projeto concluído conforme a videoaula do canal do youtube do Matheus Battisti.
 
-## 👀 Deploy: <a href="https://controle-financeiro-react-murex.vercel.app">Movies Lib</a>
+## 👀 Deploy: <a href="https://lib-movies-react.vercel.app">Movies Lib</a>
 
 ## 🖼 Screenshots do projeto
 
