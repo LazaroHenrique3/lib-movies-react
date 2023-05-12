@@ -1,4 +1,4 @@
-# Movies Lib 
+# Movies Lib  
 
 Projeto frontend React consumindo a API do TMDB, projeto concluído conforme a videoaula do canal do youtube do **Matheus Battisti**.
 
